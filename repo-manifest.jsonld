@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/kerberosauthenticator/commit/3c5f60d084201884de63d5b36d01f0b56d23b0e5",
       "git:hexsha": "3c5f60d084201884de63d5b36d01f0b56d23b0e5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:49:43.587761+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/kerberosauthenticator/commit/22e7b1eed0bb1baad154521c2907c9393bcea52a",
