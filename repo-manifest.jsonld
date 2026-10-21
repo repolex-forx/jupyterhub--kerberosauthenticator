@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/kerberosauthenticator/commit/3c5f60d084201884de63d5b36d01f0b56d23b0e5",
       "git:hexsha": "3c5f60d084201884de63d5b36d01f0b56d23b0e5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/kerberosauthenticator/commit/22e7b1eed0bb1baad154521c2907c9393bcea52a",
